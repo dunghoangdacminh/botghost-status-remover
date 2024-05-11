@@ -19,8 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Robin NTW","Playing Minecraft"];
-
+const statusMessages = ["Listening Spotify","Watching Youtube","Please message to me"];
 
 let currentIndex = 0;
 const channelId = '';
