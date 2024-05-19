@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening Spotify","Watching Youtube","Please message to me"];
+const statusMessages = ["VSign V2."];
 
 let currentIndex = 0;
 const channelId = '';
